@@ -19,14 +19,11 @@ Aqui você encontra conteúdos originais como fotos exclusivas, música, mensage
 
 ## 🌐 Publicação
 
-Este site será publicado gratuitamente usando **GitHub Pages**.  
-Você poderá acessá-lo pelo seguinte link (após publicação):
 
----
 
 🔗 **Siga-nos no Facebook**: [facebook.com/3nityboys](https://facebook.com/3nityboys)  
 📩 Para colaborações ou parcerias, entre em contacto por mensagem direta.
-
++244 929245673
 ---
 
 **© 3Nity Boys - Todos os direitos reservados**
