@@ -9,14 +9,6 @@ Aqui você encontra conteúdos originais como fotos exclusivas, música, mensage
 - Compartilhar músicas, imagens, eventos e novidades
 - Criar uma presença digital moderna, acessível e impactante
 
-## 🚀 Funcionalidades do Site
-
-- Página inicial com mensagem de boas-vindas
-- Link direto para a página oficial no Facebook
-- Player de música integrado (ao adicionar o arquivo)
-- Galeria de imagens dos artistas (ao carregar as fotos)
-- Design leve, responsivo e adaptado para todos os dispositivos
-
 ## 🌐 Publicação
 
 
