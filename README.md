@@ -2,7 +2,7 @@
 
 Este é o repositório do site oficial do grupo **3Nity Boys**, um espaço digital desenvolvido para expressar criatividade, talento e identidade cultural.  
 Aqui você encontra conteúdos originais como fotos exclusivas, música, mensagens inspiradoras e projetos digitais que representam o estilo único do grupo.
-
+# OFSTREET / BAPTISTÃO / LENO STAR
 ## ✨ Objetivos
 
 - Conectar os seguidores com o universo artístico dos 3Nity Boys
